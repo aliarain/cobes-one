@@ -1,0 +1,21 @@
+{
+    "name": "cobes-one",
+    "displayName": "cobes one",
+    "description": "Theme For Developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobes One",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobes One-color-theme.json"
+            }
+        ]
+    }
+}
